@@ -1,0 +1,41 @@
+html
+    head
+        title= "Dylan's Grocery"
+        style(type='text/css').
+            .red {
+                color: red;
+            }
+        a(href="/json") JSON
+        |
+        |
+        a(href="/xml") XML
+    body
+        
+        - var jsonList
+        if jsonList != undefined
+            h1= "JSON Objects"
+            ul
+            each val in jsonList
+                li= val.name
+                li= "Price: $" + val.price
+                if val.quantity > 0 
+                    li= "Quantity: " + val.quantity
+                else
+                    li.red= "Out of stock"
+                <br>
+            else
+                li Failed to retrieve products
+        - var xmlList;
+        if xmlList != undefined
+            h1= "XML Objects"
+            ul
+            each val in xmlList
+                li= val.name
+                li= "Price: $" + val.price
+                if val.quantity > 0 
+                    li= "Quantity: " + val.quantity
+                else
+                    li.red= "Out of stock"
+                <br>
+            else
+                li Failed to retrieve products

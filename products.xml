@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+   <product>
+      <name>Eggs</name>
+      <price>4.69</price>
+      <quantity>1</quantity>
+   </product>
+   <product>
+      <name>Milk</name>
+      <price>2.22</price>
+      <quantity>4</quantity>
+   </product>
+   <product>
+      <name>Sausage</name>
+      <price>6.05</price>
+      <quantity>0</quantity>
+   </product>
+   <product>
+      <name>Beef</name>
+      <price>4.49</price>
+      <quantity>7</quantity>
+   </product>
+   <product>
+      <name>Coffee Creamer</name>
+      <price>3.49</price>
+      <quantity>12</quantity>
+   </product>
+   <product>
+      <name>Soda</name>
+      <price>5.69</price>
+      <quantity>2</quantity>
+   </product>
+   <product>
+      <name>Crackers</name>
+      <price>2.99</price>
+      <quantity>24</quantity>
+   </product>
+   <product>
+      <name>Tea</name>
+      <price>3.99</price>
+      <quantity>6</quantity>
+   </product>
+   <product>
+      <name>Instant Coffee</name>
+      <price>6.59</price>
+      <quantity>4</quantity>
+   </product>
+   <product>
+      <name>Ice Cream</name>
+      <price>9.88</price>
+      <quantity>0</quantity>
+   </product>
+   <product>
+      <name>Cat Food</name>
+      <price>12.99</price>
+      <quantity>2</quantity>
+   </product>
+   <product>
+      <name>Organic Corn</name>
+      <price>13.99</price>
+      <quantity>17</quantity>
+   </product>
+   <product>
+      <name>Organic Pepper</name>
+      <price>9.99</price>
+      <quantity>15</quantity>
+   </product>
+   <product>
+      <name>Pepper</name>
+      <price>1.29</price>
+      <quantity>2</quantity>
+   </product>
+   <product>
+      <name>Corn</name>
+      <price>2.99</price>
+      <quantity>8</quantity>
+   </product>
+   <product>
+      <name>Canned Corn</name>
+      <price>1.99</price>
+      <quantity>4</quantity>
+   </product>
+   <product>
+      <name>Bread</name>
+      <price>2.5</price>
+      <quantity>6</quantity>
+   </product>
+   <product>
+      <name>Butter</name>
+      <price>4.39</price>
+      <quantity>65</quantity>
+   </product>
+   <product>
+      <name>Flour</name>
+      <price>2.99</price>
+      <quantity>21</quantity>
+   </product>
+   <product>
+      <name>Pancake Mix</name>
+      <price>1.29</price>
+      <quantity>0</quantity>
+   </product>
+   <product>
+      <name>Frozen Waffles</name>
+      <price>6.69</price>
+      <quantity>1</quantity>
+   </product>
+</products>
