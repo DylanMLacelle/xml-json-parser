@@ -14,3 +14,6 @@ You should see the following in your node js cli
 
 
 Now navigate to http://localhost:3000/ and you should see the website running!
+
+# Alternatively..
+You can view the website online at https://xml-json-parser.herokuapp.com/xml
