@@ -1,0 +1,25 @@
+{
+  "name": "xml-json-parser",
+  "version": "1.0.0",
+  "description": "simple website to switch between parsing xml / object list",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DylanMLacelle/xml-json-parser.git"
+  },
+  "author": "Dylan Lacelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DylanMLacelle/xml-json-parser/issues"
+  },
+  "homepage": "https://github.com/DylanMLacelle/xml-json-parser#readme"
+}
